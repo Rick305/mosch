@@ -13,10 +13,17 @@ mosch is a Shopify webshop for sustainable products and is build with the Venue 
 
 mosch uses the Shopify Venue theme and therefor most functionalities were already build-in. However, many changes in the CSS files to implement the coperate design of mosch have been made. 
 
+Homepage</br>
+<img src="./images/mosch_old_home.png" width="500px"/>
+<img src="./images/mosch_new_home.png" width="500px"/>
 
-<img src="./images/mosch_old_home.png" width="500px"/>-<img src="./images/mosch_new_home.png" width="500px"/>
-<img src="./images/mosch_old_collection.png" width="500px"/>-<img src="./images/mosch_new_collection.png" width="500px"/>
-<img src="./images/mosch_old_product.png" width="500px"/>-<img src="./images/mosch_new_product.png" width="500px"/>
+Collection page</br>
+<img src="./images/mosch_old_collection.png" width="500px"/>
+<img src="./images/mosch_new_collection.png" width="500px"/>
+
+Product page</br>
+<img src="./images/mosch_old_product.png" width="500px"/>
+<img src="./images/mosch_new_product.png" width="500px"/>
 
 ## Making Components
 Besides the changes in the CSS files, I also created a simple component. This component creates a text field over an image. The Shop owner can change the image and the text on the Shopify platform.
